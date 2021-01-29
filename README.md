@@ -3,3 +3,6 @@ A theme created for [EnhancedDiscord](https://github.com/joe27g/EnhancedDiscord)
 
 # How to import?  
 Just download the CSS file and add it to your BDD Themes folder, Everything should work already.  
+
+# Preview  
+<th><img src="https://github.com/PhoenixAceVFX/Enhanced-Discord-Theme/blob/master/ed_theme_2.png"/></th>
